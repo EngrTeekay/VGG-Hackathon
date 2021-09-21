@@ -1,0 +1,6 @@
+ -Solidity by Example tutorial: This guided us on how to create and deploy our smart contract
+	https://docs.soliditylang.org/en/v0.8.7/solidity-by-example.html#writing-a-simple-payment-channel
+
+ - Remix IDE: online solidity compiler for testing and running our smart contract
+	https://remix.ethereum.org/
+	
